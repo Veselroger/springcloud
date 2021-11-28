@@ -1,9 +1,9 @@
 spring:
   application:
-  name: Eureka
+    name: Eureka
 server:
   port: 8761
 eureka:
   client:
-  fetchRegistry: false
-  registerWithEureka: false
+    fetchRegistry: false
+    registerWithEureka: false
